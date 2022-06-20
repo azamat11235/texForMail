@@ -1,5 +1,5 @@
 # TeX for mail
-## Браузерное расширение для рендеринга [TeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics)-формул в письмах [mail.ru](https://mail.ru/).
+## Браузерное расширение для рендеринга [TeX-формул](https://en.wikibooks.org/wiki/LaTeX/Mathematics) в письмах [mail.ru](https://mail.ru/).
 
 
 ### Пример использования
